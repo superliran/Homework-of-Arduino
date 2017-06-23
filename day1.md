@@ -28,3 +28,5 @@ void loop() {
   delay(2000);
 }
 ```
+
+!["照片"](https://github.com/superliran/Homework-of-Arduino/blob/master/images/IMG_20170623_151814.jpg)
